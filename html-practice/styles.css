@@ -28,3 +28,14 @@ main {
 .resume-fieldset legend {
     padding: 0;
 }
+
+blockquote:first-of-type {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+nav {
+    position: fixed;
+    top: 0;
+}
